@@ -10,11 +10,4 @@ Welcome to the Recipe App! This application allows users to create, share, and o
 
 3. **Responsive Design**: The app is designed to be responsive, ensuring a seamless experience across various devices, including desktops, tablets, and smartphones.
 
-## Installation
-
-Follow these steps to set up the Recipe App:
-
-1. **Clone the Repository**: Clone this repository to your local machine.
-
-
 
